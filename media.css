@@ -14,6 +14,9 @@
     .man{
         display: none;
     }
+    .masters .masters-wrapp {
+        padding: 20px 0;
+    }
 }
 @media (max-width: 375px) {
     
