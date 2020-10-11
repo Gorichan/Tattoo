@@ -1,0 +1,35 @@
+@media (min-width: 120px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+@media (max-width: 988px) {
+    
+    .study .slider .carousel-control-next {
+        right: 0%;
+    }
+    .study .slider .carousel-control-prev {
+        left: 0%;
+    }
+    .man{
+        display: none;
+    }
+}
+@media (max-width: 375px) {
+    
+    .block-title{
+        font-size: 20px;
+    }
+    h1{
+        text-align: center;
+        font-size: 25px;
+    }
+    .offer p{
+        text-align: center;
+        font-size: 15px;
+    }
+    .faq-link {
+        font-size: 20px;
+        
+    }
+}
