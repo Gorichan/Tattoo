@@ -17,6 +17,25 @@
     .masters .masters-wrapp {
         padding: 20px 0;
     }
+    img.masters-img {
+        display: block;
+        margin: 0 auto;
+    }
+    .masters .masters-wrapp .desc {
+        padding: 50px 0;
+        text-align: center;
+    }
+    .masters-wrapp h3 {
+        text-align: center;
+    }
+    .main-btn {
+        display: block;
+        margin: 0 auto;
+    }
+    .job-wrep img {
+        display: block;
+        margin: 0 auto;
+    }
 }
 @media (max-width: 375px) {
     
